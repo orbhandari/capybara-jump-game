@@ -1,2 +1,12 @@
 # capybara-jump-game
-A minimalistic game called "Capybara Jump" for my girlfriend and I, also intended for learning.
+A minimalistic browser game called "Capybara Jump" for my girlfriend and I. The game is a clone of The Dinosaur Game developed by Google, hence this project is also for learning purposes.
+
+# Tech stack
+React.
+
+# Functional requirements
+
+
+
+
+
